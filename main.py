@@ -11,7 +11,7 @@ def read_root():
 def health_check():
     return {"status": "healthy"}
 
-# This is important for Vercel
+# Importante pra poder funcionar na porta principal do Vercel 
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
