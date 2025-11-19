@@ -109,15 +109,15 @@ Quando vc digitar o vercel login e depois vercel, ira acontecer uma serie de per
 ![Deploy Example](image-7.png)
 
 
-[App principal ](https://fastapirascunho-mq9no3rpk-vagner-a-silvas-projects.vercel.app)
+[App principal ](https://fastapirascunho.vercel.app)
 {"message":"Look Ma, I'm deployed!"}
 
 
-[/api/health ](https://fastapirascunho-mq9no3rpk-vagner-a-silvas-projects.vercel.app/api/health)
+[/api/health ](https://fastapirascunho.vercel.app/api/healths)
 {"status":"healthy"}
 
 
-[Docs ](https://fastapirascunho-mq9no3rpk-vagner-a-silvas-projects.vercel.app/docs)
+[Docs ](https://fastapirascunho.vercel.app/docs)
 
 ![alt text](image-8.png)
 
