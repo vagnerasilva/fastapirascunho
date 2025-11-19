@@ -120,3 +120,12 @@ Quando vc digitar o vercel login e depois vercel, ira acontecer uma serie de per
 [Docs ](https://fastapirascunho-mq9no3rpk-vagner-a-silvas-projects.vercel.app/docs)
 
 ![alt text](image-8.png)
+
+
+# depois de conectado o projeto ao repositorio do github ele faz update automaticamente em cada push
+
+![alt text](image-1.png)
+
+# Ele ira mostrar todos os deployments e atualizacoes da aplicacao em producao
+
+![alt text](image.png)
