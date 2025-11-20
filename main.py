@@ -8,13 +8,13 @@ app = FastAPI()
 # -------------------------------
 # Função para iniciar o Streamlit
 # -------------------------------
-def run_streamlit():
-    subprocess.run(
-        ["streamlit", "run", "dashboard.py", "--server.port=8501"]
-    )
+#def run_streamlit():
+#    subprocess.run(
+#        ["streamlit", "run", "dashboard.py", "--server.port=8501"]
+#    )
 
 # Iniciar Streamlit em segundo plano
-threading.Thread(target=run_streamlit, daemon=True).start()
+#threading.Thread(target=run_streamlit, daemon=True).start()
 
 @app.get("/")
 def read_root():
